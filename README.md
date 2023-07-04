@@ -34,7 +34,7 @@ Pneumonia X-rays typically show infiltrates, consolidation, or other abnormaliti
 
 ### Normal X-ray
 
-![Normal](normal2.jpg)
+![Normal](normal1.jpg)
 
 A normal X-ray will typically show clear lung fields without any significant infiltrates or abnormalities.
 
