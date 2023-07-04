@@ -51,8 +51,6 @@ You can install the required packages by running `pip install -r requirements.tx
 
 ## Note
 
-This application is created by Aditya Shirke with ❤️. Feel free to modify and adapt it according to your needs.
-
 **Disclaimer:** This application should not be considered as a substitute for professional medical advice or diagnosis. Always consult a healthcare professional for accurate medical information and guidance.
 
 **Important:** The accuracy of the classification results depends on the quality of the model and the training data. Please ensure that you have a reliable and well-performing model before using it for critical applications.
