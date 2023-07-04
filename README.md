@@ -2,7 +2,7 @@
 
 This is a simple web application built with Streamlit that allows you to classify chest X-ray images for pneumonia. It uses a pre-trained deep learning model to make predictions. 
 
-![Demo](pneumonia.gif)
+![Demo](Pneumonia.gif)
 
 ## Getting Started
 
